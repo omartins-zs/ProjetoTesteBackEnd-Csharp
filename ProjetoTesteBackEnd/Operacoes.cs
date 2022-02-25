@@ -9,5 +9,10 @@ namespace ProjetoTesteBackEnd
             return pNum + sNum;
             //  Pode ser escrito return (pNum + sNum);
         }
+
+        public static double Subtrair(double pNum, double sNum)
+        {
+            return pNum - sNum;
+        }
     }
 }
