@@ -3,6 +3,18 @@
 <p align="center"><i> Teste com MSTest e xUnit</i></p> 
 <br>
 
+## 👨‍💻️ Tecnologias 
+
+Esse projeto foi criado utilizando as tecnologias:
+### Back-End
+
+- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [.NET](https://dotnet.microsoft.com/download)
+
+### Editor
+- [Visual Studio](https://visualstudio.microsoft.com/pt-br/)
+
+<hr>
 
 ## Problemas comuns :x:
 
