@@ -1,8 +1,8 @@
-# Projeto Teste de Back-End C#
-
-ProjetoTesteBackEnd com C#
-
+<h1 align="center">👨‍💻 Projeto Teste de Back-End C#	👨‍💻
+</h1>
+<p align="center"><i> Teste com MSTest e xUnit</i></p> 
 <br>
+
 
 ## Problemas comuns :x:
 
@@ -19,8 +19,7 @@ ProjetoTesteBackEnd com C#
 
 </details>
 
-
-<hr>
+<br>
 
 <h3 align="left"><i>Atalho ❗</em></i></h3>
 
