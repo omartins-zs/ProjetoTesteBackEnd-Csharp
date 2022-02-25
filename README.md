@@ -16,6 +16,13 @@ Esse projeto foi criado utilizando as tecnologias:
 
 <hr>
 
+## Para rodar os  testes
+
+
+1. Clickar em cima do arquivo de teste no gerenciador de soluções
+
+2. Ir em Executar teste
+
 ## Problemas comuns :x:
 
 
