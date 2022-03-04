@@ -3,6 +3,17 @@
 <p align="center"><i> Teste com MSTest e xUnit</i></p> 
 <br>
 
+
+<p align="center">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+  
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
 ## 👨‍💻️ Tecnologias 
 
 Esse projeto foi criado utilizando as tecnologias:
