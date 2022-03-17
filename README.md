@@ -1,9 +1,6 @@
 <h1 align="center">👨‍💻 Projeto Teste de Back-End C#	👨‍💻
 </h1>
 <p align="center"><i> Teste com MSTest e xUnit</i></p> 
-<br>
-
-
 <p align="center">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
@@ -13,6 +10,22 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
+<br>
+<i>
+
+## 📝 Documentaçao das ferramentas de teste
+
+  Documentação [XUnit](https://xunit.net/docs/comparisons)
+
+  Documentação [MSTest](https://docs.microsoft.com/pt-br/visualstudio/test/getting-started-with-unit-testing?view=vs-2019&tabs=dotnet%2Cmstest)
+
+</i>
+<hr>
+<br>
+
+
+
+
 
 ## 👨‍💻️ Tecnologias 
 
